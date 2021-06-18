@@ -1,5 +1,5 @@
 # IACN
-
+This is code for paper titled- IACN: Influence-aware and Attention-basedCo-evolutionary Network for Recommendation
 ## Code setup 
 
 To initialize the directories needed to store data and outputs, use the following command. This will create data/, saved_models/, and results/ directories.
