@@ -13,4 +13,7 @@ python IACN.py --network <network> --epochs 50
 ```
 
 ## Evaluate the model
-To evaluate the performance of the model, use the following command. The command iteratively evaluates the performance for all epochs of the model and outputs the final test performance.
+To evaluate the performance of the model, use the following command. It tests the model performance saved at $ep$th epoch.
+  ```
+  python IACN_test.py --epoch ep
+  ```
